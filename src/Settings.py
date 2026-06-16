@@ -24,5 +24,5 @@ class Setting:
             "game_over" : (230, 230, 230)
         }
         self.PATHS = {
-            "musics" : ("./FileAudio/epic-cinematic-351310.mp3", "./FileAudio/Walen - Play (freetouse.com).mp3")
+            "musics" : ("./audio/epic-cinematic-351310.mp3", "./audio/Walen - Play (freetouse.com).mp3")
         }
