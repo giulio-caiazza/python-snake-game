@@ -46,7 +46,7 @@ Snake/
 ├── Snake.py
 ├── SnakeGame.py
 │
-└── FileAudio/
+└── audio/
     ├── epic-cinematic-351310.mp3
     └── Walen - Play (freetouse.com).mp3
 
